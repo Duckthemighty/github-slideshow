@@ -2,5 +2,5 @@
 layout: Slide
 title: "Welcome to our second slide!"
 ---
-Your text
+DSP will outlive us all
 Use the left arrow to go back!
